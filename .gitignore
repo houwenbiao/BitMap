@@ -5,6 +5,14 @@
 # Files for the ART/Dalvik VM
 *.dex
 
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
 # Java class files
 *.class
 
